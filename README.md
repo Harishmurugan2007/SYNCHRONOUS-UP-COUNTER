@@ -98,7 +98,8 @@ endmodule
 ```
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. 
 
-Developed by: Ragul.K RegisterNumber:24006231
+Developed by: HARISH M
+RegisterNumber:212224110021
 */
 
 **RTL LOGIC UP COUNTER**
